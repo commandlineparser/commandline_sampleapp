@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickstart_app", "quickstart_app\quickstart_app.csproj", "{1D340B7D-BD88-4688-884D-8684E4055DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickstart_verbs", "quickstart_verbs\quickstart_verbs.csproj", "{31D0C0F9-D8CC-493C-98C7-09CC046AD343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D340B7D-BD88-4688-884D-8684E4055DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D340B7D-BD88-4688-884D-8684E4055DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D340B7D-BD88-4688-884D-8684E4055DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D340B7D-BD88-4688-884D-8684E4055DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D0C0F9-D8CC-493C-98C7-09CC046AD343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D0C0F9-D8CC-493C-98C7-09CC046AD343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D0C0F9-D8CC-493C-98C7-09CC046AD343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D0C0F9-D8CC-493C-98C7-09CC046AD343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E5768B-5CDF-4B99-B5BA-DEBC6F59CD2B}
+	EndGlobalSection
+EndGlobal
